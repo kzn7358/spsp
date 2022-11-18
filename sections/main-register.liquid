@@ -127,12 +127,29 @@
         {{ form.errors.translated_fields['password'] | capitalize }} {{ form.errors.messages['password'] }}.
       </span>
     {%- endif -%}
-    <button>
-      {{ 'customer.register.submit' | t }}
+   <div class="agree-check">
+     <label><input type="checkbox"name="agree"value="checked"class="js_chk_agree">
+     <a href="/pages/privacypolicy">プライバシーポリシー</a>に同意する</label>
+   </div>
+            <button class="js_btn_agree">
+              
+                 {{ 'customer.register.submit' | t }}
     </button>
-  {%- endform -%}
+  <input type="hidden" name="customer[tags]" value="新規"/>
+    
+    {%- endform -%}
 </div>
-
+<script>
+  $(function(){let cls_disabled='js_btn_disabled';
+              let btn_register=$('.js_btn_agree');
+              btn_register.addClass(cls_disabled);
+              $('.js_chk_agree').on('change',function()
+                                    {let self=$(this);if(self.prop('checked'))
+                                    {btn_register.removeClass(cls_disabled);}
+                                    else{btn_register.addClass(cls_disabled);}
+                                    });
+              })
+</script>
 
 {% schema %}
 {
