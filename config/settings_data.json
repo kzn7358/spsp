@@ -167,7 +167,7 @@
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Info",
+              "heading": "私たちについて",
               "menu": "footer"
             }
           },
