@@ -161,7 +161,7 @@
             "type": "link_list",
             "settings": {
               "heading": "商品",
-              "menu": "main-menu"
+              "menu": "l"
             }
           },
           "footer-1": {
