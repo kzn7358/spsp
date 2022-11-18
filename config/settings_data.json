@@ -119,8 +119,8 @@
     "predictive_search_show_price": false,
     "favicon": "shopify:\/\/shop_images\/logo.png",
     "currency_code_enabled": true,
-    "checkout_header_image": "shopify:\/\/shop_images\/logo.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/logo.png",
+    "checkout_logo_size": "large",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
