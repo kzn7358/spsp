@@ -68,10 +68,10 @@
         "4d9a7b36-bb0b-47cb-82e6-7e90687a0363": {
           "type": "button",
           "settings": {
-            "button_label": "肌診断",
+            "button_label": "シミ・ソバカス",
             "button_link": "",
             "button_style_secondary": false,
-            "button_label_2": "ＳＭ",
+            "button_label_2": "シワ改善",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
