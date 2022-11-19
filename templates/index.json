@@ -147,6 +147,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -195,7 +196,7 @@
         "column3"
       ],
       "settings": {
-        "title": "",
+        "title": "NEWS",
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
