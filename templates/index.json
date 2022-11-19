@@ -64,11 +64,35 @@
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
+        },
+        "4d9a7b36-bb0b-47cb-82e6-7e90687a0363": {
+          "type": "button",
+          "settings": {
+            "button_label": "肌診断",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "ＳＭ",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "2ae88ffe-6290-4d17-8bf5-de10a7919b76": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "4d9a7b36-bb0b-47cb-82e6-7e90687a0363",
+        "2ae88ffe-6290-4d17-8bf5-de10a7919b76"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -108,6 +132,7 @@
     },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -161,15 +186,14 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>ニキビ跡のシミはどうしたら治る？<\/strong><\/p>",
-            "link_label": "肌がデコボコと凹んだ状態になっているのが、クレーター状のニキビ跡。",
-            "link": "shopify:\/\/blogs\/ニュース\/ニキビ跡のシミはどうしたら治る"
+            "text": "",
+            "link_label": "シミ・ソバカス",
+            "link": "shopify:\/\/collections\/シミ-ソバカス"
           }
         },
         "column2": {
