@@ -69,10 +69,10 @@
           "type": "button",
           "settings": {
             "button_label": "シミ・ソバカス",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/シミ-ソバカス",
             "button_style_secondary": false,
             "button_label_2": "シワ改善",
-            "button_link_2": "",
+            "button_link_2": "shopify:\/\/collections\/シワ改善",
             "button_style_secondary_2": false
           }
         },
