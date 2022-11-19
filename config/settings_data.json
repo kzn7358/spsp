@@ -188,8 +188,8 @@
           "4cae271a-898d-494b-85e2-eea62825e15a"
         ],
         "settings": {
-          "color_scheme": "background-1",
-          "newsletter_enable": true,
+          "color_scheme": "accent-1",
+          "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
           "enable_country_selector": true,
