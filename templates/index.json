@@ -286,8 +286,9 @@
         "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-2"
       ],
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "image": "shopify:\/\/shop_images\/SINDAN.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
