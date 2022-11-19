@@ -254,6 +254,49 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "fd2afee1-acc2-4a89-9e62-fa9f031ed450": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "肌診断",
+            "heading_size": "h1"
+          }
+        },
+        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>自分にあうアイテムが欲しい方<\/p><p>商品選びに迷った方はまず肌診断<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-0",
+        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-1",
+        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -263,6 +306,7 @@
     "collage",
     "video",
     "multicolumn",
-    "86a493eb-98af-43f7-95fb-8dcdb0a1b780"
+    "86a493eb-98af-43f7-95fb-8dcdb0a1b780",
+    "fd2afee1-acc2-4a89-9e62-fa9f031ed450"
   ]
 }
