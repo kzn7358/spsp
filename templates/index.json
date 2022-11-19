@@ -131,6 +131,50 @@
         "padding_bottom": 0
       }
     },
+    "fd2afee1-acc2-4a89-9e62-fa9f031ed450": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "肌診断",
+            "heading_size": "h1"
+          }
+        },
+        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>自分にあうアイテムをお探しの方、<\/strong><\/p><p><strong>商品選びに迷った方はまず肌診断<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "診断はこちら　＞",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-0",
+        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-1",
+        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SINDAN.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage": {
       "type": "collage",
       "disabled": true,
@@ -254,60 +298,16 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "fd2afee1-acc2-4a89-9e62-fa9f031ed450": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "肌診断",
-            "heading_size": "h1"
-          }
-        },
-        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>自分にあうアイテムをお探しの方、<\/strong><\/p><p><strong>商品選びに迷った方はまず肌診断<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "診断はこちら　＞",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-0",
-        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-1",
-        "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/SINDAN.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "image_banner",
     "featured_collection",
     "rich_text",
+    "fd2afee1-acc2-4a89-9e62-fa9f031ed450",
     "collage",
     "video",
     "multicolumn",
-    "86a493eb-98af-43f7-95fb-8dcdb0a1b780",
-    "fd2afee1-acc2-4a89-9e62-fa9f031ed450"
+    "86a493eb-98af-43f7-95fb-8dcdb0a1b780"
   ]
 }
