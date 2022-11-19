@@ -166,8 +166,8 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>ニキビ跡のシミはどうしたら治る？<\/p>",
-            "link_label": "",
+            "text": "<p><strong>ニキビ跡のシミはどうしたら治る？<\/strong><\/p>",
+            "link_label": "肌がデコボコと凹んだ状態になっているのが、クレーター状のニキビ跡。",
             "link": "shopify:\/\/blogs\/ニュース\/ニキビ跡のシミはどうしたら治る"
           }
         },
