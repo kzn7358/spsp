@@ -6,9 +6,63 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "e01bdb28-d1e8-46e7-8692-de39e93d4290": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-0": {
+          "type": "column",
+          "settings": {
+            "title": "STEP①",
+            "text": "<p>診断フォームの質問に回答。<\/p><p>顔写真を添付し送信<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-1": {
+          "type": "column",
+          "settings": {
+            "title": "STEP②",
+            "text": "<p>弊社独自の肌診断システムで<\/p><p>今の肌状態を診断。<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-2": {
+          "type": "column",
+          "settings": {
+            "title": "STEP③",
+            "text": "<p>診断結果と肌の状態に合わせた<\/p><p>おすすめ商品をメールで回答<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-0",
+        "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-1",
+        "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-2"
+      ],
+      "settings": {
+        "title": "診断の流れ",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "診断フォーム",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "e01bdb28-d1e8-46e7-8692-de39e93d4290"
   ]
 }
