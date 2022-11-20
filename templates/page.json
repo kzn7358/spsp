@@ -13,6 +13,7 @@
         "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/hands-typing.jpg",
             "title": "STEP①",
             "text": "<p>診断フォームの質問に回答。<\/p><p>顔写真を添付し送信<\/p>",
             "link_label": "",
@@ -47,9 +48,9 @@
       "settings": {
         "title": "診断の流れ",
         "heading_size": "h2",
-        "image_width": "third",
+        "image_width": "half",
         "image_ratio": "square",
-        "columns_desktop": 1,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "診断フォーム",
