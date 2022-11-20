@@ -153,7 +153,7 @@
           "type": "button",
           "settings": {
             "button_label": "診断はこちら　＞",
-            "button_link": ""
+            "button_link": "shopify:\/\/pages\/肌診断コンテンツ"
           }
         }
       },
