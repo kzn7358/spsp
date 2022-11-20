@@ -47,9 +47,9 @@
       "settings": {
         "title": "診断の流れ",
         "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "診断フォーム",
