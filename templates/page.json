@@ -22,6 +22,7 @@
         "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/SINDAN.jpg",
             "title": "STEP②",
             "text": "<p>弊社独自の肌診断システムで<\/p><p>今の肌状態を診断。<\/p>",
             "link_label": "",
