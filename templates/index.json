@@ -36,8 +36,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/hands-hold-black-dropper-bottle.jpg",
-        "image_2": "shopify:\/\/shop_images\/face-treatment-with-a-smile.jpg",
+        "image": "shopify:\/\/shop_images\/01_1.jpg",
         "image_overlay_opacity": 20,
         "image_height": "large",
         "adapt_height_first_image": false,
@@ -178,7 +177,6 @@
     },
     "collage": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -205,6 +203,7 @@
         "product",
         "collection-1"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h2",
@@ -232,7 +231,6 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
@@ -267,6 +265,7 @@
         "column2",
         "column3"
       ],
+      "disabled": true,
       "settings": {
         "title": "NEWS",
         "heading_size": "h1",
