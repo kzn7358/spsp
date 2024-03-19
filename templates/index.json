@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "漆の良さをもっと身近なものに…　　　　　　漆の美しさをもっと多くの人に届けたい…",
+            "heading": "漆の良さをもっと身近なものに…　　　　　　漆の美しさをもっと多くの人に届けたい… 京の風景と共に。",
             "heading_size": "h1"
           }
         },
@@ -36,8 +36,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/01_1.jpg",
-        "image_2": "shopify:\/\/shop_images\/satori.jpg",
+        "image": "shopify:\/\/shop_images\/20240319__01-01.jpg",
         "image_overlay_opacity": 30,
         "image_height": "large",
         "adapt_height_first_image": false,
