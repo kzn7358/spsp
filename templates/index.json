@@ -159,6 +159,7 @@
         "4d9a7b36-bb0b-47cb-82e6-7e90687a0363",
         "2ae88ffe-6290-4d17-8bf5-de10a7919b76"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
@@ -174,7 +175,7 @@
         "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-0": {
           "type": "heading",
           "settings": {
-            "heading": "肌診断",
+            "heading": "漆塗りオーダーメード",
             "heading_size": "h1"
           }
         },
