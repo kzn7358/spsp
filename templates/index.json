@@ -6,15 +6,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "漆の良さをもっと身近なものに…　　　　　　漆の美しさをもっと多くの人に届けたい…",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "京都の伝統工芸士が50年以上に渡って磨いてきた熟練の技を今ここに。",
-            "text_style": "subtitle"
+            "heading": "漆の良さ・美しさをもっと多くの方に届けたい…　　　　　　　　　　　京の窓辺の風景のように。",
+            "heading_size": "h2"
           }
         },
         "button": {
@@ -28,12 +21,20 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "京都の伝統工芸士が50年以上に渡って磨いてきた熟練の技を今ここに。",
+            "text_style": "subtitle"
+          }
         }
       },
       "block_order": [
         "heading",
-        "text",
-        "button"
+        "button",
+        "text"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/20240321__02-01.jpg",
@@ -49,10 +50,52 @@
         "show_text_below": true
       }
     },
+    "rich_text_6w3A7b": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_prqDhi": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_ey3pWD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_dx3PVH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_prqDhi",
+        "text_ey3pWD",
+        "button_dx3PVH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "おすすめアイテムアイテム",
+        "title": "おすすめアイテム",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -303,6 +346,7 @@
   },
   "order": [
     "image_banner",
+    "rich_text_6w3A7b",
     "featured_collection",
     "rich_text",
     "fd2afee1-acc2-4a89-9e62-fa9f031ed450",
