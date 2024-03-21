@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "漆の良さ・美しさをもっと多くの方に届けたい…　　　　　　　　　　　京の窓辺の風景のように。",
+            "heading": "漆の良さ・美しさをもっと多くの方に届けたい…　　　　　　　　　　　京の窓辺の風景のような美を。",
             "heading_size": "h2"
           }
         },
@@ -50,46 +50,40 @@
         "show_text_below": true
       }
     },
-    "rich_text_6w3A7b": {
-      "type": "rich-text",
+    "image_with_text_LhqApc": {
+      "type": "image-with-text",
       "blocks": {
-        "heading_prqDhi": {
+        "heading_t3MfCU": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
+            "heading": "伝統工芸士　ー京の名匠ー　　　　　　　　　　　　松田　勉",
+            "heading_size": "h2"
           }
         },
-        "text_ey3pWD": {
+        "text_chCzCY": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "button_dx3PVH": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<h5>1947年　京都市に生まれる<\/h5><h5>1977年　独立　京都市内に工房を構える<\/h5><h5>2002年　第25回京仏壇・京仏具技術コンクール展　漆工部門　京都市長賞　受賞<\/h5><h5>2003年　第25回京仏壇・京仏具技術コンクール展　漆工部門　近畿経済産業局長賞　受賞<\/h5><h5>2004年　伝統工芸士認定<\/h5><h5>2015年　京の名匠（京都市伝統産業技術功労者）受賞<\/h5><h5>2019年　瑞宝単光章　受賞<\/h5>",
+            "text_style": "subtitle"
           }
         }
       },
       "block_order": [
-        "heading_prqDhi",
-        "text_ey3pWD",
-        "button_dx3PVH"
+        "heading_t3MfCU",
+        "text_chCzCY"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "image": "shopify:\/\/shop_images\/ip3r4mdw.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "featured_collection": {
@@ -346,7 +340,7 @@
   },
   "order": [
     "image_banner",
-    "rich_text_6w3A7b",
+    "image_with_text_LhqApc",
     "featured_collection",
     "rich_text",
     "fd2afee1-acc2-4a89-9e62-fa9f031ed450",
