@@ -6,66 +6,9 @@
         "padding_top": 20,
         "padding_bottom": 0
       }
-    },
-    "e01bdb28-d1e8-46e7-8692-de39e93d4290": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/hands-typing.jpg",
-            "title": "STEP①",
-            "text": "<p>お問い合わせフォームに必要事項とお客様の要望を入力。<\/p><p>全体がわかる写真を添付し送信<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Web__25-3-2024_215956_www.bing.com.jpg",
-            "title": "STEP②",
-            "text": "<p>弊社よりお客様の要望を取り入れたイメージ図、お見積書＆納期を送信時に入力いただいたメールアドレスに専用ページのURL（webサイトのアドレス）が記載されたメールで回答<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Web__25-3-2024_215538_www.bing.com.jpg",
-            "title": "STEP③",
-            "text": "<p>専用ページより注文いただき、お客様のアイテムを送付いただくだけ。　　　　※送料はお客様負担<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-0",
-        "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-1",
-        "template--16932888936729__e01bdb28-d1e8-46e7-8692-de39e93d4290-1668922947bdf96255-2"
-      ],
-      "settings": {
-        "title": "オーダーメイドのお問い合わせ方法は「カンタン！３ＳＴＥＰ」",
-        "heading_size": "h2",
-        "image_width": "half",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "お問い合わせフォームへ",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
-    "main",
-    "e01bdb28-d1e8-46e7-8692-de39e93d4290"
+    "main"
   ]
 }
