@@ -176,26 +176,26 @@
               "menu": "footer"
             }
           },
-          "4cae271a-898d-494b-85e2-eea62825e15a": {
-            "type": "link_list",
-            "settings": {
-              "heading": "お客様サポート",
-              "menu": "r"
-            }
-          },
           "link_list_a6pBhL": {
             "type": "link_list",
             "settings": {
               "heading": "ご利用ガイド",
               "menu": "link-list"
             }
+          },
+          "4cae271a-898d-494b-85e2-eea62825e15a": {
+            "type": "link_list",
+            "settings": {
+              "heading": "お客様サポート",
+              "menu": "r"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "footer-1",
-          "4cae271a-898d-494b-85e2-eea62825e15a",
-          "link_list_a6pBhL"
+          "link_list_a6pBhL",
+          "4cae271a-898d-494b-85e2-eea62825e15a"
         ],
         "settings": {
           "color_scheme": "accent-1",
