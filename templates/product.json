@@ -44,6 +44,15 @@
             "show_dynamic_checkout": true
           }
         },
+        "collapsible_tab_XKDqrB": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "サイズ",
+            "icon": "none",
+            "content": "<p>{{ product.metafields.custom.siz.value }}<\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
@@ -103,6 +112,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "collapsible_tab_XKDqrB",
         "collapsible-row-2",
         "collapsible-row-0",
         "collapsible-row-1",
