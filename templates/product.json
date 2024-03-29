@@ -47,8 +47,8 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "主成分",
-            "icon": "leaf",
+            "heading": "納期",
+            "icon": "none",
             "content": "<p>{{ product.metafields.custom.component_.value }}<\/p>",
             "page": ""
           }
