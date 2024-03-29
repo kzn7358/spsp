@@ -106,7 +106,7 @@
         "text_wNpi4x": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>「美しさで人の心を動かすことができるようなちょっと良いもの」をテーマに松田氏が2021年に誕生させた漆塗りアクセサリーブランドです。<\/strong><\/h3><h3><strong>50年あまり佛具の漆塗りに携わってきた技術と経験を今、人の身と心を華やかに飾るアクセサリーへと昇華させ、頑なに手造りにこだわった本物の工芸品です。<\/strong><\/h3>"
+            "text": "<h3>「美しさで人の心を動かすことができるようなちょっと良いもの」をテーマに松田氏が2021年に誕生させた漆塗りアクセサリーブランドです。<\/h3><h3>50年あまり佛具の漆塗りに携わってきた技術と経験を今、人の身と心を華やかに飾るアクセサリーへと昇華させ、頑なに手造りにこだわった本物の工芸品です。<\/h3>"
           }
         }
       },
@@ -118,7 +118,7 @@
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
-        "color_scheme": "inverse",
+        "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 0
