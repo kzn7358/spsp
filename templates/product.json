@@ -66,8 +66,8 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "内容量",
-            "icon": "bottle",
+            "heading": "素材",
+            "icon": "none",
             "content": "<p>{{ product.metafields.custom.capacity.value }}<\/p>",
             "page": ""
           }
