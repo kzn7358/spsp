@@ -86,6 +86,44 @@
         "padding_bottom": 0
       }
     },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>ADUSTAM<em>とは<\/em><\/h1>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "text_wNpi4x": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>「美しさで人の心を動かすことができるようなちょっと良いもの」をテーマに松田氏が2021年に誕生させた漆塗りアクセサリーブランドです。<\/strong><\/h3><h3><strong>50年あまり佛具の漆塗りに携わってきた技術と経験を今、人の身と心を華やかに飾るアクセサリーへと昇華させ、頑なに手造りにこだわった本物の工芸品です。<\/strong><\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "text_wNpi4x"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -111,62 +149,6 @@
         "swipe_on_mobile": false,
         "padding_top": 28,
         "padding_bottom": 36
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>肌悩みで探す<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "4d9a7b36-bb0b-47cb-82e6-7e90687a0363": {
-          "type": "button",
-          "settings": {
-            "button_label": "シミ・ソバカス",
-            "button_link": "shopify:\/\/collections\/シミ-ソバカス",
-            "button_style_secondary": false,
-            "button_label_2": "シワ改善",
-            "button_link_2": "shopify:\/\/collections\/シワ改善",
-            "button_style_secondary_2": false
-          }
-        },
-        "2ae88ffe-6290-4d17-8bf5-de10a7919b76": {
-          "type": "button",
-          "settings": {
-            "button_label": "小じわ",
-            "button_link": "shopify:\/\/collections\/小じわ",
-            "button_style_secondary": false,
-            "button_label_2": "ハリ",
-            "button_link_2": "shopify:\/\/collections\/ハリ",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "4d9a7b36-bb0b-47cb-82e6-7e90687a0363",
-        "2ae88ffe-6290-4d17-8bf5-de10a7919b76"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
       }
     },
     "fd2afee1-acc2-4a89-9e62-fa9f031ed450": {
@@ -323,6 +305,7 @@
     },
     "86a493eb-98af-43f7-95fb-8dcdb0a1b780": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "NEWS",
         "heading_size": "h1",
@@ -342,8 +325,8 @@
   "order": [
     "image_banner",
     "image_with_text_LhqApc",
-    "featured_collection",
     "rich_text",
+    "featured_collection",
     "fd2afee1-acc2-4a89-9e62-fa9f031ed450",
     "collage",
     "video",
