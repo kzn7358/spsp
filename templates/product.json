@@ -5,6 +5,7 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.vendor }}",
             "text_style": "uppercase"
@@ -71,6 +72,11 @@
             "page": ""
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "disabled": true,
@@ -89,11 +95,6 @@
             "icon": "heart",
             "content": "",
             "page": ""
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
           }
         },
         "share": {
@@ -115,9 +116,9 @@
         "collapsible_tab_XKDqrB",
         "collapsible-row-2",
         "collapsible-row-0",
+        "description",
         "collapsible-row-1",
         "collapsible-row-3",
-        "description",
         "share"
       ],
       "settings": {
