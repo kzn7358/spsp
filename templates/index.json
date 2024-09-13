@@ -190,6 +190,7 @@
         "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-1",
         "template--16932889166105__fd2afee1-acc2-4a89-9e62-fa9f031ed450-166886878634f1d1c9-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/20240321_3-01.jpg",
         "height": "adapt",
